@@ -1,0 +1,2 @@
+sitiens bwa /path/to/1490_R1.fastq /path/to/1490_R2.fastq 395 0.25 FR
+sitiens bwa /path/to/1494_R1.fastq /path/to/1494_R2.fastq 395 0.25 FR
