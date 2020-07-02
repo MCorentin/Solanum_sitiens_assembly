@@ -4,7 +4,9 @@ Instructions and files to reproduce the de novo assembly of Solanum sitiens (acc
 
 ## How to cite
 
-Coming soon.
+C. Molitor, T.J. Kurowski, P.M. Fidalgo de Almeida, P. Eerolla, D.J. Spindlow, S.P. Kashyap, B. Singh, H.C. Prasanna, A.J. Thompson, F.R. Mohareb, '*De novo* genome assembly and transcriptome analysis for the drought and salt resistant *Solanum sitiens*', *bioRxiv 2020.06.14.151043*, doi:10.1101/2020.06.14.15104
+
+https://www.biorxiv.org/content/10.1101/2020.06.14.151043v2 
 
 ## Table of Contents
 
